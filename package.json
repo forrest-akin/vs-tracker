@@ -4,8 +4,9 @@
   "description": "Front-end challenge for Versus Systems",
   "main": "public/bundle.js",
   "scripts": {
-    "watch": "node_modules/.bin/webpack --watch",
-    "test": "jest"
+    "build": "./node_modules/.bin/webpack",
+    "start": "yarn build && open ./public/index.html",
+    "watch": "yarn build --watch & yarn start"
   },
   "author": "Forrest Akin <forrest.akin@gmail.com> (https://github.com/forrest-akin)",
   "license": "MIT",
