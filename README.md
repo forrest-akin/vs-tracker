@@ -40,6 +40,6 @@ As a user working on a project I can add new tasks and transition those tasks to
 - New tasks default to the TODO state
 - Please use Material-UI (http://www.material-ui.com/#/) for standard UI components, feel free to pull in any other dependencies else you may need
  
-### Notes:
+### Notes
 - Do not forget a README with including installation, run, and instructions to run the tests
 - We do not expect you to send any data back to a server with the status of the projects and tasks
