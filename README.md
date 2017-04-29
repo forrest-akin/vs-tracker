@@ -1,6 +1,6 @@
-# Frontend Development Sample Project
+# VSTracker
 
-This is a simple task manager built with React for Versus Systems's front-end challenge
+This is a simple task manager built with React for [Versus Systems](http://www.versussystems.com/)'s front-end challenge
 
 ## Install
 
