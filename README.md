@@ -38,7 +38,7 @@ As a user working on a project I can add new tasks and transition those tasks to
 - Please review the mockups (attached) for how we would like it structured
 - When adding a new task the dialog is a modal that appears on top of the existing UI
 - New tasks default to the TODO state
-- Please use Material-UI (http://www.material-ui.com/#/) for standard UI components, feel free to pull in any other dependencies else you may need
+- Please use [Material-UI](http://www.material-ui.com) for standard UI components, feel free to pull in any other dependencies else you may need
  
 ### Notes
 - Do not forget a README with including installation, run, and instructions to run the tests
