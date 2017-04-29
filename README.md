@@ -20,7 +20,7 @@ After you've installed the project dependencies, you should be able to run this 
 $ yarn start
 ```
 
-If this doesn't work for any reason, you can simply open `./public/index.html` in a browser manually.
+If the application isn't opened in your default browser after running the previous command, you can simply open `./public/index.html` in a browser manually.
 
 ## Requirements
 
