@@ -1,0 +1,25 @@
+{
+  "name": "vs-tracker",
+  "version": "1.0.0",
+  "description": "Front-end challenge for Versus Systems",
+  "main": "public/bundle.js",
+  "scripts": {
+    "watch": "node_modules/.bin/webpack --watch",
+    "test": "jest"
+  },
+  "author": "Forrest Akin <forrest.akin@gmail.com> (https://github.com/forrest-akin)",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "^0.17.0",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-react": "^6.24.0",
+    "babel-preset-stage-2": "^6.24.0",
+    "webpack": "^2.4.0"
+  }
+}
