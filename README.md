@@ -34,7 +34,7 @@ $ yarn test
 
 ### Mocks
 
-![TaskList-mock.png](design/TaskList-mock.png) ![CreateNewTask-mock](design/CreateNewTask-mock)
+![TaskList-mock.png](design/TaskList-mock.png) ![CreateNewTask-mock](design/CreateNewTask-mock.png)
 
 As a user working on a project I can add new tasks and transition those tasks to multiple states, so that I can track the work I need to do. 
  
