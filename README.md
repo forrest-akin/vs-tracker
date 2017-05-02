@@ -1,4 +1,4 @@
-# VSTracker
+# VS Tracker
 
 This is a simple task manager built with React for [Versus Systems](http://www.versussystems.com/)'s front-end challenge
 
@@ -14,13 +14,19 @@ $ yarn
 
 ## Usage
 
-After you've installed the project dependencies, you should be able to run this app in a browser using the following command:
+Use the following command to start the app:
 
 ```bash
 $ yarn start
 ```
 
 If the application isn't opened in your default browser after running the previous command, you can simply open `./public/index.html` in a browser manually.
+
+To run tests use:
+
+```bash
+$ yarn test
+```
 
 ## Requirements
 

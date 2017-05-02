@@ -1,4 +1,6 @@
 {
+  "plugins": ["transform-decorators-legacy", "transform-regenerator"],
+
   "presets": [
     ["env", {
       "targets": {
@@ -7,7 +9,13 @@
       "modules": false,
       "loose": true
     }],
-    "stage-2",
+    "stage-1",
     "react"
-  ]
+  ],
+
+  "env": {
+    "test": {
+      "plugins": ["transform-es2015-modules-commonjs"]
+    }
+  }
 }

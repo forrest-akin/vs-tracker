@@ -1,0 +1,33 @@
+.root {
+  background: #303030;
+  height: 100vh;
+  padding-top: 5vh;
+  width: 90vw;
+}
+
+.add-container {
+  padding-top: 5vh;
+}
+
+.add-task {
+  padding-right: 0.75vw;
+}
+
+.task-button {
+  padding: 0 8px 16px 0 !important;
+}
+
+.task-panel {
+  height: 80vh;
+  overflow-y: scroll;
+  padding-top: 8px;
+}
+
+.modal {
+  height: 30vh;
+  margin-top: -30px !important;
+}
+
+.modal-row {
+  padding: 4px 0;
+}
