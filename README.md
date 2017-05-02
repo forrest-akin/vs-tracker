@@ -2,6 +2,8 @@
 
 This is a simple task manager built with React for [Versus Systems](http://www.versussystems.com/)'s front-end challenge
 
+![demo-sd.gif](design/demo-sd.gif)
+
 ## Install
 
 Install project depenedencies using the following command:
@@ -30,6 +32,10 @@ $ yarn test
 
 ## Requirements
 
+### Mocks
+
+![TaskList-mock.png](design/TaskList-mock.png) ![CreateNewTask-mock](design/CreateNewTask-mock)
+
 As a user working on a project I can add new tasks and transition those tasks to multiple states, so that I can track the work I need to do. 
  
 ### Required Features
@@ -49,3 +55,4 @@ As a user working on a project I can add new tasks and transition those tasks to
 ### Notes
 - Do not forget a README with including installation, run, and instructions to run the tests
 - We do not expect you to send any data back to a server with the status of the projects and tasks
+
